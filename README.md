@@ -7,7 +7,7 @@ i also forgot to show that the href tags for the google maps thing works,
 you can just click on it and it should work fine
 
 presentaion link:
-https://docs.google.com/presentation/d/1iog9EL3V3myDuHYVAVBYSjm98LdqK9iKPEcmEvfiRMs/edit?usp=sharing
+https://docs.google.com/presentation/d/1iog9EL3V3myDuHYVAVBYSjm98LdqK9iKPEcmEvfiRMs/edit#slide=id.g1f203f4d459_0_15
 
 
 i had issues with github again and had to manually add all html and readme changes, I came to the conclusion that it's a naming issue becuase the terminal said my file(which i copied the name of) doesn't exist.. but when i made a new test repo and followed the steps to push changes it worked perfectly, unfortunately i had to keep the naming convention as is so i couldn't push changes the way i would have wanted to
